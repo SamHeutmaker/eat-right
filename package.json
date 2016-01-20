@@ -1,0 +1,19 @@
+{
+  "name": "eat-right",
+  "version": "0.0.1",
+  "description": "An online subscription food service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHeutmaker/eat-right.git"
+  },
+  "author": "samheutmaker@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamHeutmaker/eat-right/issues"
+  },
+  "homepage": "https://github.com/SamHeutmaker/eat-right#readme"
+}
